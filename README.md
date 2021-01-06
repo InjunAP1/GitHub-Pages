@@ -1,2 +1,1 @@
-# GitHub-Pages
-GitHub Pages project for CSE 110
+Jacinth's User Page
