@@ -1,3 +1,3 @@
 Jacinth's User Page
 
-I like Java the most for playing around with coding concepts but I find myself using Python and C++ the most for actual projects.
+I like Java the most for day to day use since it's what I'm used to and is fast enough for most cases but in that case transposing the code to C++ isn't hard
